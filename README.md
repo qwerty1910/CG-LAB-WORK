@@ -1,2 +1,2 @@
 # CG-LAB-WORK
-As part of course work
+As part of Course work
